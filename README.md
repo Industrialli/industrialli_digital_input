@@ -7,6 +7,6 @@ Biblioteca para manipulação das entradas digitais da Industrialli Hub com a ut
 > [!IMPORTANT]  
 > Consulte a biblioteca geral da Industrialli Hub.
 > 
-> Consulte a biblioteca de contador de interrupções
+> Consulte a biblioteca de contador de interrupções.
 > 
-> Consulte a biblioteca de encoder
+> Consulte a biblioteca de encoder.
