@@ -5,7 +5,7 @@
 Biblioteca para manipulação das entradas digitais da Industrialli Hub para o framework Arduino com o uso da biblioteca [stm32ino](https://github.com/stm32duino/).
 
 > [!IMPORTANT]  
-> Consulte a biblioteca geral da Industrialli Hub [:link:](https://pages.github.com/).
+> Consulte a biblioteca principal da Industrialli Hub [:link:](https://github.com/Industrialli/Industrialli-Hub).
 
 ## Exemplo
 No exemplo abaixo, é anexado uma função para contagem de interrupções nas entradas digitais I01 e I02, em que a entrada I01 é um sensor NPN, e a entrada I02 é um sensor PNP.
