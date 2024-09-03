@@ -31,7 +31,12 @@ void loop(){
      */
     Serial.println(i01_count + i02_count);
 
+    /* Atualiza os leds das entradas digitais.
+     */
     digital_input.update_leds();
+
+    /* Envia a configuração dos leds para o CI.
+     */
     leds.update();
     delay(10);
 }
