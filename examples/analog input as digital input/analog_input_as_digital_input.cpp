@@ -24,7 +24,12 @@ void loop(){
         Serial.println("Hello Industrialli!");
     }
 
+    /* Atualiza os leds das entradas digitais.
+     */
     digital_input.update_leds();
+
+    /* Envia a configuração dos leds para o CI.
+     */
     leds.update();
     delay(10);
 }
